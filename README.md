@@ -20,7 +20,7 @@ local file system.
 
 ## How to contribute
 
-Send money!!!
+Please fork this repository and then issue Pull Requests for review.
 
 ### COpyright
 
