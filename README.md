@@ -22,6 +22,6 @@ local file system.
 
 Please fork this repository and then issue Pull Requests for review.
 
-### COpyright
+### Copyright
 
 2016 Git.Training
