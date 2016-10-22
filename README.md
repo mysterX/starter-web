@@ -11,7 +11,7 @@ commands using a web project.
 ## Purpose
 
 As stated above, the main purpose is to provide simple examples for Git
-training demos.
+training demos. And to show a diff with an unstaged commit.
 
 ## Deployment
 
