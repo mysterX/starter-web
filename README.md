@@ -21,3 +21,7 @@ local file system.
 ## How to contribute
 
 Send money!!!
+
+### COpyright
+
+2016 Git.Training
