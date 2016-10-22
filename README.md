@@ -1,7 +1,8 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work. I just added this
-sentence for the hell of it. Adding a line for rebasing example.
+sentence for the hell of it. Adding a line for rebasing example, then more
+changes from my feature branch too.
 
 ## Introduction
 
