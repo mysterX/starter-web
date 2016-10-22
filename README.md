@@ -15,5 +15,9 @@ training demos. And to show a diff with an unstaged commit.
 
 ## Deployment
 
+This is a simple web project, deployment can be on any web server or even the
+local file system.
+
 ## How to contribute
 
+Send money!!!
